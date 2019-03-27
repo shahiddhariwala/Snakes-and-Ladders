@@ -1,2 +1,3 @@
 # Snakes-and-Ladders
-Java Full Stack Program
+Snake and Ladders
+
